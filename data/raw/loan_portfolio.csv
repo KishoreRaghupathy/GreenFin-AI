@@ -1,0 +1,1001 @@
+Loan_ID,Borrower_Name,Sector,Outstanding_Amount_Mn
+LID1000,Borrower 1,Manufacturing,133.31
+LID1001,Borrower 2,Retail,293.86
+LID1002,Borrower 3,Real Estate,442.83
+LID1003,Borrower 4,Tech Services,379.5
+LID1004,Borrower 5,Oil & Gas,412.95
+LID1005,Borrower 6,Oil & Gas,346.45
+LID1006,Borrower 7,Oil & Gas,361.52
+LID1007,Borrower 8,Retail,432.14
+LID1008,Borrower 9,Tech Services,162.35
+LID1009,Borrower 10,Real Estate,270.24
+LID1010,Borrower 11,Oil & Gas,149.54
+LID1011,Borrower 12,Retail,494.45
+LID1012,Borrower 13,Retail,474.83
+LID1013,Borrower 14,Manufacturing,67.74
+LID1014,Borrower 15,Oil & Gas,367.51
+LID1015,Borrower 16,Oil & Gas,466.36
+LID1016,Borrower 17,Manufacturing,131.26
+LID1017,Borrower 18,Tech Services,305.58
+LID1018,Borrower 19,Manufacturing,461.97
+LID1019,Borrower 20,Manufacturing,65.28
+LID1020,Borrower 21,Tech Services,363.84
+LID1021,Borrower 22,Oil & Gas,183.81
+LID1022,Borrower 23,Manufacturing,465.98
+LID1023,Borrower 24,Manufacturing,486.98
+LID1024,Borrower 25,Manufacturing,474.92
+LID1025,Borrower 26,Real Estate,263.4
+LID1026,Borrower 27,Oil & Gas,437.92
+LID1027,Borrower 28,Tech Services,430.05
+LID1028,Borrower 29,Tech Services,193.6
+LID1029,Borrower 30,Oil & Gas,423.01
+LID1030,Borrower 31,Tech Services,66.65
+LID1031,Borrower 32,Oil & Gas,318.32
+LID1032,Borrower 33,Oil & Gas,153.5
+LID1033,Borrower 34,Retail,104.26
+LID1034,Borrower 35,Retail,84.63
+LID1035,Borrower 36,Retail,363.33
+LID1036,Borrower 37,Manufacturing,202.94
+LID1037,Borrower 38,Oil & Gas,376.15
+LID1038,Borrower 39,Real Estate,79.41
+LID1039,Borrower 40,Manufacturing,191.88
+LID1040,Borrower 41,Oil & Gas,292.77
+LID1041,Borrower 42,Manufacturing,405.83
+LID1042,Borrower 43,Oil & Gas,193.44
+LID1043,Borrower 44,Retail,331.65
+LID1044,Borrower 45,Manufacturing,448.69
+LID1045,Borrower 46,Real Estate,327.14
+LID1046,Borrower 47,Manufacturing,154.83
+LID1047,Borrower 48,Tech Services,60.98
+LID1048,Borrower 49,Tech Services,441.54
+LID1049,Borrower 50,Oil & Gas,59.57
+LID1050,Borrower 51,Retail,443.62
+LID1051,Borrower 52,Real Estate,288.02
+LID1052,Borrower 53,Retail,472.58
+LID1053,Borrower 54,Retail,409.45
+LID1054,Borrower 55,Tech Services,499.07
+LID1055,Borrower 56,Retail,207.82
+LID1056,Borrower 57,Oil & Gas,395.23
+LID1057,Borrower 58,Oil & Gas,230.87
+LID1058,Borrower 59,Oil & Gas,265.94
+LID1059,Borrower 60,Manufacturing,332.38
+LID1060,Borrower 61,Manufacturing,443.15
+LID1061,Borrower 62,Manufacturing,492.84
+LID1062,Borrower 63,Retail,395.72
+LID1063,Borrower 64,Manufacturing,238.0
+LID1064,Borrower 65,Manufacturing,239.61
+LID1065,Borrower 66,Tech Services,381.91
+LID1066,Borrower 67,Oil & Gas,157.45
+LID1067,Borrower 68,Retail,99.71
+LID1068,Borrower 69,Oil & Gas,209.58
+LID1069,Borrower 70,Retail,179.26
+LID1070,Borrower 71,Real Estate,183.34
+LID1071,Borrower 72,Oil & Gas,155.12
+LID1072,Borrower 73,Oil & Gas,68.94
+LID1073,Borrower 74,Retail,58.04
+LID1074,Borrower 75,Real Estate,494.48
+LID1075,Borrower 76,Real Estate,242.5
+LID1076,Borrower 77,Real Estate,222.95
+LID1077,Borrower 78,Oil & Gas,355.84
+LID1078,Borrower 79,Manufacturing,148.21
+LID1079,Borrower 80,Oil & Gas,477.48
+LID1080,Borrower 81,Retail,403.86
+LID1081,Borrower 82,Tech Services,90.23
+LID1082,Borrower 83,Manufacturing,237.91
+LID1083,Borrower 84,Oil & Gas,445.6
+LID1084,Borrower 85,Manufacturing,475.13
+LID1085,Borrower 86,Manufacturing,260.33
+LID1086,Borrower 87,Real Estate,326.04
+LID1087,Borrower 88,Tech Services,125.17
+LID1088,Borrower 89,Retail,496.03
+LID1089,Borrower 90,Manufacturing,154.25
+LID1090,Borrower 91,Oil & Gas,474.23
+LID1091,Borrower 92,Real Estate,342.34
+LID1092,Borrower 93,Real Estate,323.48
+LID1093,Borrower 94,Tech Services,280.71
+LID1094,Borrower 95,Real Estate,153.8
+LID1095,Borrower 96,Manufacturing,129.44
+LID1096,Borrower 97,Tech Services,149.22
+LID1097,Borrower 98,Manufacturing,133.9
+LID1098,Borrower 99,Oil & Gas,400.81
+LID1099,Borrower 100,Oil & Gas,207.56
+LID1100,Borrower 101,Oil & Gas,76.03
+LID1101,Borrower 102,Tech Services,486.1
+LID1102,Borrower 103,Manufacturing,447.7
+LID1103,Borrower 104,Tech Services,467.49
+LID1104,Borrower 105,Retail,497.71
+LID1105,Borrower 106,Manufacturing,128.25
+LID1106,Borrower 107,Manufacturing,228.31
+LID1107,Borrower 108,Real Estate,391.21
+LID1108,Borrower 109,Manufacturing,363.21
+LID1109,Borrower 110,Oil & Gas,119.25
+LID1110,Borrower 111,Manufacturing,417.12
+LID1111,Borrower 112,Oil & Gas,151.0
+LID1112,Borrower 113,Retail,150.72
+LID1113,Borrower 114,Retail,291.64
+LID1114,Borrower 115,Tech Services,316.82
+LID1115,Borrower 116,Retail,311.04
+LID1116,Borrower 117,Retail,91.17
+LID1117,Borrower 118,Oil & Gas,444.86
+LID1118,Borrower 119,Retail,169.52
+LID1119,Borrower 120,Tech Services,108.28
+LID1120,Borrower 121,Retail,449.94
+LID1121,Borrower 122,Retail,480.04
+LID1122,Borrower 123,Manufacturing,437.96
+LID1123,Borrower 124,Oil & Gas,414.28
+LID1124,Borrower 125,Manufacturing,344.86
+LID1125,Borrower 126,Manufacturing,297.89
+LID1126,Borrower 127,Retail,89.14
+LID1127,Borrower 128,Retail,233.8
+LID1128,Borrower 129,Oil & Gas,217.71
+LID1129,Borrower 130,Tech Services,166.89
+LID1130,Borrower 131,Manufacturing,375.54
+LID1131,Borrower 132,Manufacturing,273.14
+LID1132,Borrower 133,Oil & Gas,86.47
+LID1133,Borrower 134,Manufacturing,149.08
+LID1134,Borrower 135,Retail,357.47
+LID1135,Borrower 136,Manufacturing,84.26
+LID1136,Borrower 137,Tech Services,433.04
+LID1137,Borrower 138,Real Estate,272.82
+LID1138,Borrower 139,Manufacturing,266.26
+LID1139,Borrower 140,Retail,316.58
+LID1140,Borrower 141,Retail,421.11
+LID1141,Borrower 142,Manufacturing,206.51
+LID1142,Borrower 143,Manufacturing,355.11
+LID1143,Borrower 144,Manufacturing,304.58
+LID1144,Borrower 145,Manufacturing,170.16
+LID1145,Borrower 146,Oil & Gas,445.38
+LID1146,Borrower 147,Tech Services,408.84
+LID1147,Borrower 148,Tech Services,346.3
+LID1148,Borrower 149,Oil & Gas,432.76
+LID1149,Borrower 150,Manufacturing,440.28
+LID1150,Borrower 151,Retail,368.76
+LID1151,Borrower 152,Manufacturing,426.66
+LID1152,Borrower 153,Oil & Gas,363.86
+LID1153,Borrower 154,Manufacturing,356.06
+LID1154,Borrower 155,Retail,328.38
+LID1155,Borrower 156,Manufacturing,388.72
+LID1156,Borrower 157,Real Estate,121.37
+LID1157,Borrower 158,Real Estate,446.39
+LID1158,Borrower 159,Manufacturing,442.33
+LID1159,Borrower 160,Real Estate,63.16
+LID1160,Borrower 161,Manufacturing,421.62
+LID1161,Borrower 162,Tech Services,107.99
+LID1162,Borrower 163,Tech Services,200.8
+LID1163,Borrower 164,Tech Services,384.58
+LID1164,Borrower 165,Oil & Gas,122.34
+LID1165,Borrower 166,Retail,418.09
+LID1166,Borrower 167,Manufacturing,424.46
+LID1167,Borrower 168,Oil & Gas,278.36
+LID1168,Borrower 169,Oil & Gas,52.87
+LID1169,Borrower 170,Tech Services,179.17
+LID1170,Borrower 171,Real Estate,327.62
+LID1171,Borrower 172,Oil & Gas,491.53
+LID1172,Borrower 173,Tech Services,334.32
+LID1173,Borrower 174,Manufacturing,166.91
+LID1174,Borrower 175,Tech Services,335.3
+LID1175,Borrower 176,Oil & Gas,292.99
+LID1176,Borrower 177,Real Estate,400.93
+LID1177,Borrower 178,Manufacturing,98.14
+LID1178,Borrower 179,Retail,392.46
+LID1179,Borrower 180,Oil & Gas,293.57
+LID1180,Borrower 181,Manufacturing,483.35
+LID1181,Borrower 182,Oil & Gas,203.84
+LID1182,Borrower 183,Retail,334.68
+LID1183,Borrower 184,Retail,469.41
+LID1184,Borrower 185,Manufacturing,96.13
+LID1185,Borrower 186,Real Estate,471.75
+LID1186,Borrower 187,Retail,359.55
+LID1187,Borrower 188,Tech Services,80.53
+LID1188,Borrower 189,Tech Services,185.43
+LID1189,Borrower 190,Manufacturing,368.68
+LID1190,Borrower 191,Oil & Gas,80.31
+LID1191,Borrower 192,Retail,311.98
+LID1192,Borrower 193,Retail,205.65
+LID1193,Borrower 194,Tech Services,329.41
+LID1194,Borrower 195,Manufacturing,70.58
+LID1195,Borrower 196,Manufacturing,442.19
+LID1196,Borrower 197,Real Estate,488.07
+LID1197,Borrower 198,Retail,486.0
+LID1198,Borrower 199,Retail,387.34
+LID1199,Borrower 200,Real Estate,108.54
+LID1200,Borrower 201,Tech Services,391.22
+LID1201,Borrower 202,Oil & Gas,61.06
+LID1202,Borrower 203,Oil & Gas,59.96
+LID1203,Borrower 204,Retail,195.62
+LID1204,Borrower 205,Tech Services,269.89
+LID1205,Borrower 206,Oil & Gas,396.68
+LID1206,Borrower 207,Oil & Gas,357.48
+LID1207,Borrower 208,Real Estate,250.66
+LID1208,Borrower 209,Oil & Gas,173.13
+LID1209,Borrower 210,Oil & Gas,498.71
+LID1210,Borrower 211,Tech Services,241.78
+LID1211,Borrower 212,Real Estate,253.12
+LID1212,Borrower 213,Real Estate,123.63
+LID1213,Borrower 214,Manufacturing,407.66
+LID1214,Borrower 215,Real Estate,362.16
+LID1215,Borrower 216,Manufacturing,149.35
+LID1216,Borrower 217,Manufacturing,87.07
+LID1217,Borrower 218,Real Estate,356.22
+LID1218,Borrower 219,Tech Services,344.53
+LID1219,Borrower 220,Retail,172.97
+LID1220,Borrower 221,Real Estate,477.89
+LID1221,Borrower 222,Tech Services,117.98
+LID1222,Borrower 223,Oil & Gas,244.55
+LID1223,Borrower 224,Manufacturing,474.63
+LID1224,Borrower 225,Manufacturing,238.88
+LID1225,Borrower 226,Manufacturing,337.34
+LID1226,Borrower 227,Retail,228.92
+LID1227,Borrower 228,Manufacturing,173.4
+LID1228,Borrower 229,Retail,492.79
+LID1229,Borrower 230,Tech Services,234.2
+LID1230,Borrower 231,Real Estate,452.34
+LID1231,Borrower 232,Tech Services,153.48
+LID1232,Borrower 233,Tech Services,145.9
+LID1233,Borrower 234,Manufacturing,64.01
+LID1234,Borrower 235,Oil & Gas,343.25
+LID1235,Borrower 236,Real Estate,215.84
+LID1236,Borrower 237,Manufacturing,438.96
+LID1237,Borrower 238,Oil & Gas,262.94
+LID1238,Borrower 239,Tech Services,485.69
+LID1239,Borrower 240,Oil & Gas,133.49
+LID1240,Borrower 241,Retail,440.88
+LID1241,Borrower 242,Retail,399.47
+LID1242,Borrower 243,Retail,396.91
+LID1243,Borrower 244,Manufacturing,430.15
+LID1244,Borrower 245,Oil & Gas,392.46
+LID1245,Borrower 246,Retail,331.8
+LID1246,Borrower 247,Manufacturing,109.06
+LID1247,Borrower 248,Retail,64.64
+LID1248,Borrower 249,Retail,464.38
+LID1249,Borrower 250,Retail,327.49
+LID1250,Borrower 251,Manufacturing,408.44
+LID1251,Borrower 252,Manufacturing,266.69
+LID1252,Borrower 253,Retail,102.79
+LID1253,Borrower 254,Manufacturing,106.33
+LID1254,Borrower 255,Oil & Gas,358.5
+LID1255,Borrower 256,Tech Services,243.64
+LID1256,Borrower 257,Retail,140.24
+LID1257,Borrower 258,Real Estate,271.22
+LID1258,Borrower 259,Tech Services,78.89
+LID1259,Borrower 260,Oil & Gas,311.89
+LID1260,Borrower 261,Tech Services,171.05
+LID1261,Borrower 262,Retail,408.9
+LID1262,Borrower 263,Oil & Gas,189.66
+LID1263,Borrower 264,Tech Services,254.85
+LID1264,Borrower 265,Retail,55.23
+LID1265,Borrower 266,Real Estate,82.6
+LID1266,Borrower 267,Real Estate,226.62
+LID1267,Borrower 268,Real Estate,265.97
+LID1268,Borrower 269,Manufacturing,320.01
+LID1269,Borrower 270,Manufacturing,181.25
+LID1270,Borrower 271,Retail,362.74
+LID1271,Borrower 272,Retail,437.06
+LID1272,Borrower 273,Retail,400.93
+LID1273,Borrower 274,Retail,67.83
+LID1274,Borrower 275,Tech Services,266.23
+LID1275,Borrower 276,Tech Services,97.22
+LID1276,Borrower 277,Real Estate,158.92
+LID1277,Borrower 278,Tech Services,494.0
+LID1278,Borrower 279,Real Estate,114.12
+LID1279,Borrower 280,Real Estate,274.5
+LID1280,Borrower 281,Retail,328.17
+LID1281,Borrower 282,Manufacturing,366.11
+LID1282,Borrower 283,Manufacturing,301.84
+LID1283,Borrower 284,Oil & Gas,54.4
+LID1284,Borrower 285,Tech Services,196.91
+LID1285,Borrower 286,Oil & Gas,282.97
+LID1286,Borrower 287,Manufacturing,89.54
+LID1287,Borrower 288,Tech Services,207.78
+LID1288,Borrower 289,Manufacturing,64.94
+LID1289,Borrower 290,Tech Services,85.36
+LID1290,Borrower 291,Oil & Gas,228.62
+LID1291,Borrower 292,Oil & Gas,109.72
+LID1292,Borrower 293,Retail,305.39
+LID1293,Borrower 294,Manufacturing,360.26
+LID1294,Borrower 295,Oil & Gas,410.26
+LID1295,Borrower 296,Tech Services,140.07
+LID1296,Borrower 297,Real Estate,125.37
+LID1297,Borrower 298,Manufacturing,97.06
+LID1298,Borrower 299,Tech Services,336.39
+LID1299,Borrower 300,Oil & Gas,367.91
+LID1300,Borrower 301,Oil & Gas,64.21
+LID1301,Borrower 302,Tech Services,471.3
+LID1302,Borrower 303,Tech Services,73.39
+LID1303,Borrower 304,Tech Services,293.58
+LID1304,Borrower 305,Real Estate,369.08
+LID1305,Borrower 306,Retail,441.94
+LID1306,Borrower 307,Tech Services,371.34
+LID1307,Borrower 308,Manufacturing,410.78
+LID1308,Borrower 309,Real Estate,202.75
+LID1309,Borrower 310,Manufacturing,416.67
+LID1310,Borrower 311,Manufacturing,86.05
+LID1311,Borrower 312,Oil & Gas,452.67
+LID1312,Borrower 313,Oil & Gas,296.42
+LID1313,Borrower 314,Retail,417.78
+LID1314,Borrower 315,Retail,253.54
+LID1315,Borrower 316,Real Estate,339.61
+LID1316,Borrower 317,Manufacturing,286.88
+LID1317,Borrower 318,Oil & Gas,379.22
+LID1318,Borrower 319,Oil & Gas,86.73
+LID1319,Borrower 320,Manufacturing,77.16
+LID1320,Borrower 321,Tech Services,161.2
+LID1321,Borrower 322,Real Estate,121.8
+LID1322,Borrower 323,Real Estate,442.3
+LID1323,Borrower 324,Manufacturing,148.65
+LID1324,Borrower 325,Retail,489.14
+LID1325,Borrower 326,Real Estate,201.6
+LID1326,Borrower 327,Tech Services,131.95
+LID1327,Borrower 328,Tech Services,405.36
+LID1328,Borrower 329,Manufacturing,346.42
+LID1329,Borrower 330,Manufacturing,274.19
+LID1330,Borrower 331,Manufacturing,299.91
+LID1331,Borrower 332,Real Estate,373.64
+LID1332,Borrower 333,Oil & Gas,152.8
+LID1333,Borrower 334,Oil & Gas,498.35
+LID1334,Borrower 335,Oil & Gas,488.66
+LID1335,Borrower 336,Oil & Gas,342.65
+LID1336,Borrower 337,Retail,139.79
+LID1337,Borrower 338,Real Estate,356.1
+LID1338,Borrower 339,Manufacturing,82.49
+LID1339,Borrower 340,Oil & Gas,63.79
+LID1340,Borrower 341,Manufacturing,165.96
+LID1341,Borrower 342,Manufacturing,258.18
+LID1342,Borrower 343,Oil & Gas,440.72
+LID1343,Borrower 344,Manufacturing,377.23
+LID1344,Borrower 345,Manufacturing,384.22
+LID1345,Borrower 346,Tech Services,241.47
+LID1346,Borrower 347,Tech Services,205.67
+LID1347,Borrower 348,Oil & Gas,216.97
+LID1348,Borrower 349,Manufacturing,494.44
+LID1349,Borrower 350,Tech Services,68.05
+LID1350,Borrower 351,Tech Services,440.16
+LID1351,Borrower 352,Retail,310.4
+LID1352,Borrower 353,Real Estate,247.38
+LID1353,Borrower 354,Oil & Gas,376.37
+LID1354,Borrower 355,Oil & Gas,269.0
+LID1355,Borrower 356,Tech Services,443.04
+LID1356,Borrower 357,Oil & Gas,455.32
+LID1357,Borrower 358,Tech Services,239.77
+LID1358,Borrower 359,Retail,174.57
+LID1359,Borrower 360,Tech Services,316.56
+LID1360,Borrower 361,Manufacturing,460.56
+LID1361,Borrower 362,Tech Services,144.8
+LID1362,Borrower 363,Manufacturing,330.33
+LID1363,Borrower 364,Tech Services,334.2
+LID1364,Borrower 365,Retail,379.9
+LID1365,Borrower 366,Manufacturing,109.21
+LID1366,Borrower 367,Retail,372.12
+LID1367,Borrower 368,Retail,459.06
+LID1368,Borrower 369,Oil & Gas,130.86
+LID1369,Borrower 370,Oil & Gas,156.89
+LID1370,Borrower 371,Oil & Gas,487.13
+LID1371,Borrower 372,Oil & Gas,131.44
+LID1372,Borrower 373,Oil & Gas,434.47
+LID1373,Borrower 374,Real Estate,271.53
+LID1374,Borrower 375,Oil & Gas,161.25
+LID1375,Borrower 376,Manufacturing,441.84
+LID1376,Borrower 377,Retail,250.39
+LID1377,Borrower 378,Oil & Gas,281.67
+LID1378,Borrower 379,Retail,211.66
+LID1379,Borrower 380,Manufacturing,316.83
+LID1380,Borrower 381,Oil & Gas,123.59
+LID1381,Borrower 382,Real Estate,225.99
+LID1382,Borrower 383,Tech Services,486.24
+LID1383,Borrower 384,Retail,166.16
+LID1384,Borrower 385,Real Estate,345.53
+LID1385,Borrower 386,Retail,196.34
+LID1386,Borrower 387,Manufacturing,398.06
+LID1387,Borrower 388,Oil & Gas,108.89
+LID1388,Borrower 389,Real Estate,486.42
+LID1389,Borrower 390,Retail,254.21
+LID1390,Borrower 391,Retail,156.22
+LID1391,Borrower 392,Manufacturing,83.07
+LID1392,Borrower 393,Manufacturing,126.39
+LID1393,Borrower 394,Real Estate,283.9
+LID1394,Borrower 395,Manufacturing,201.65
+LID1395,Borrower 396,Retail,423.0
+LID1396,Borrower 397,Retail,243.9
+LID1397,Borrower 398,Manufacturing,161.92
+LID1398,Borrower 399,Real Estate,327.72
+LID1399,Borrower 400,Real Estate,368.05
+LID1400,Borrower 401,Oil & Gas,125.17
+LID1401,Borrower 402,Retail,125.43
+LID1402,Borrower 403,Tech Services,66.5
+LID1403,Borrower 404,Retail,381.38
+LID1404,Borrower 405,Manufacturing,348.71
+LID1405,Borrower 406,Retail,263.58
+LID1406,Borrower 407,Manufacturing,429.88
+LID1407,Borrower 408,Oil & Gas,412.55
+LID1408,Borrower 409,Retail,313.41
+LID1409,Borrower 410,Oil & Gas,440.72
+LID1410,Borrower 411,Manufacturing,142.63
+LID1411,Borrower 412,Retail,100.36
+LID1412,Borrower 413,Retail,171.39
+LID1413,Borrower 414,Tech Services,75.69
+LID1414,Borrower 415,Tech Services,289.03
+LID1415,Borrower 416,Manufacturing,471.47
+LID1416,Borrower 417,Manufacturing,67.7
+LID1417,Borrower 418,Manufacturing,104.95
+LID1418,Borrower 419,Real Estate,253.49
+LID1419,Borrower 420,Real Estate,470.24
+LID1420,Borrower 421,Real Estate,192.27
+LID1421,Borrower 422,Real Estate,278.26
+LID1422,Borrower 423,Oil & Gas,68.71
+LID1423,Borrower 424,Manufacturing,116.75
+LID1424,Borrower 425,Oil & Gas,493.98
+LID1425,Borrower 426,Tech Services,484.3
+LID1426,Borrower 427,Manufacturing,52.22
+LID1427,Borrower 428,Retail,478.32
+LID1428,Borrower 429,Manufacturing,337.6
+LID1429,Borrower 430,Oil & Gas,440.56
+LID1430,Borrower 431,Oil & Gas,254.63
+LID1431,Borrower 432,Real Estate,282.02
+LID1432,Borrower 433,Tech Services,269.98
+LID1433,Borrower 434,Oil & Gas,350.09
+LID1434,Borrower 435,Oil & Gas,112.84
+LID1435,Borrower 436,Real Estate,63.49
+LID1436,Borrower 437,Oil & Gas,188.57
+LID1437,Borrower 438,Retail,367.11
+LID1438,Borrower 439,Real Estate,140.83
+LID1439,Borrower 440,Oil & Gas,353.04
+LID1440,Borrower 441,Oil & Gas,486.46
+LID1441,Borrower 442,Retail,92.26
+LID1442,Borrower 443,Manufacturing,352.67
+LID1443,Borrower 444,Manufacturing,249.69
+LID1444,Borrower 445,Retail,440.66
+LID1445,Borrower 446,Retail,129.72
+LID1446,Borrower 447,Retail,361.68
+LID1447,Borrower 448,Real Estate,427.15
+LID1448,Borrower 449,Manufacturing,475.08
+LID1449,Borrower 450,Oil & Gas,357.46
+LID1450,Borrower 451,Real Estate,273.73
+LID1451,Borrower 452,Tech Services,328.03
+LID1452,Borrower 453,Manufacturing,441.01
+LID1453,Borrower 454,Retail,306.77
+LID1454,Borrower 455,Oil & Gas,63.67
+LID1455,Borrower 456,Manufacturing,468.93
+LID1456,Borrower 457,Oil & Gas,360.29
+LID1457,Borrower 458,Manufacturing,354.43
+LID1458,Borrower 459,Oil & Gas,147.05
+LID1459,Borrower 460,Oil & Gas,346.5
+LID1460,Borrower 461,Oil & Gas,227.24
+LID1461,Borrower 462,Tech Services,343.05
+LID1462,Borrower 463,Real Estate,97.97
+LID1463,Borrower 464,Tech Services,346.03
+LID1464,Borrower 465,Retail,499.74
+LID1465,Borrower 466,Manufacturing,71.7
+LID1466,Borrower 467,Manufacturing,489.73
+LID1467,Borrower 468,Retail,233.11
+LID1468,Borrower 469,Manufacturing,441.84
+LID1469,Borrower 470,Retail,402.07
+LID1470,Borrower 471,Oil & Gas,305.16
+LID1471,Borrower 472,Retail,382.3
+LID1472,Borrower 473,Oil & Gas,445.33
+LID1473,Borrower 474,Retail,231.86
+LID1474,Borrower 475,Tech Services,197.16
+LID1475,Borrower 476,Retail,350.42
+LID1476,Borrower 477,Oil & Gas,413.53
+LID1477,Borrower 478,Tech Services,393.03
+LID1478,Borrower 479,Retail,409.02
+LID1479,Borrower 480,Tech Services,246.01
+LID1480,Borrower 481,Tech Services,418.03
+LID1481,Borrower 482,Real Estate,104.09
+LID1482,Borrower 483,Manufacturing,295.02
+LID1483,Borrower 484,Tech Services,52.59
+LID1484,Borrower 485,Tech Services,196.06
+LID1485,Borrower 486,Retail,214.91
+LID1486,Borrower 487,Oil & Gas,228.28
+LID1487,Borrower 488,Manufacturing,362.96
+LID1488,Borrower 489,Retail,224.85
+LID1489,Borrower 490,Retail,251.91
+LID1490,Borrower 491,Manufacturing,156.89
+LID1491,Borrower 492,Tech Services,217.96
+LID1492,Borrower 493,Manufacturing,152.27
+LID1493,Borrower 494,Oil & Gas,82.94
+LID1494,Borrower 495,Manufacturing,321.55
+LID1495,Borrower 496,Manufacturing,350.7
+LID1496,Borrower 497,Tech Services,328.77
+LID1497,Borrower 498,Oil & Gas,258.57
+LID1498,Borrower 499,Retail,220.9
+LID1499,Borrower 500,Retail,438.5
+LID1500,Borrower 501,Real Estate,283.59
+LID1501,Borrower 502,Tech Services,265.63
+LID1502,Borrower 503,Manufacturing,61.54
+LID1503,Borrower 504,Retail,203.56
+LID1504,Borrower 505,Real Estate,221.09
+LID1505,Borrower 506,Oil & Gas,229.47
+LID1506,Borrower 507,Retail,311.08
+LID1507,Borrower 508,Retail,290.12
+LID1508,Borrower 509,Retail,323.56
+LID1509,Borrower 510,Real Estate,394.2
+LID1510,Borrower 511,Tech Services,415.84
+LID1511,Borrower 512,Manufacturing,373.16
+LID1512,Borrower 513,Retail,479.99
+LID1513,Borrower 514,Retail,58.2
+LID1514,Borrower 515,Oil & Gas,138.1
+LID1515,Borrower 516,Oil & Gas,53.4
+LID1516,Borrower 517,Manufacturing,341.36
+LID1517,Borrower 518,Retail,454.11
+LID1518,Borrower 519,Retail,159.57
+LID1519,Borrower 520,Oil & Gas,467.17
+LID1520,Borrower 521,Tech Services,77.12
+LID1521,Borrower 522,Manufacturing,470.5
+LID1522,Borrower 523,Retail,208.23
+LID1523,Borrower 524,Retail,95.64
+LID1524,Borrower 525,Retail,268.64
+LID1525,Borrower 526,Manufacturing,165.55
+LID1526,Borrower 527,Manufacturing,178.19
+LID1527,Borrower 528,Manufacturing,188.28
+LID1528,Borrower 529,Oil & Gas,411.36
+LID1529,Borrower 530,Retail,292.62
+LID1530,Borrower 531,Retail,190.09
+LID1531,Borrower 532,Retail,324.65
+LID1532,Borrower 533,Retail,372.27
+LID1533,Borrower 534,Tech Services,172.68
+LID1534,Borrower 535,Real Estate,236.1
+LID1535,Borrower 536,Retail,104.85
+LID1536,Borrower 537,Retail,131.52
+LID1537,Borrower 538,Manufacturing,356.5
+LID1538,Borrower 539,Manufacturing,131.65
+LID1539,Borrower 540,Oil & Gas,286.32
+LID1540,Borrower 541,Retail,369.07
+LID1541,Borrower 542,Tech Services,98.09
+LID1542,Borrower 543,Manufacturing,305.29
+LID1543,Borrower 544,Real Estate,165.45
+LID1544,Borrower 545,Tech Services,483.32
+LID1545,Borrower 546,Manufacturing,267.6
+LID1546,Borrower 547,Oil & Gas,412.7
+LID1547,Borrower 548,Real Estate,297.6
+LID1548,Borrower 549,Tech Services,69.54
+LID1549,Borrower 550,Real Estate,334.92
+LID1550,Borrower 551,Tech Services,478.13
+LID1551,Borrower 552,Retail,320.73
+LID1552,Borrower 553,Tech Services,418.63
+LID1553,Borrower 554,Tech Services,447.89
+LID1554,Borrower 555,Retail,152.64
+LID1555,Borrower 556,Manufacturing,145.42
+LID1556,Borrower 557,Oil & Gas,324.94
+LID1557,Borrower 558,Oil & Gas,234.96
+LID1558,Borrower 559,Real Estate,427.94
+LID1559,Borrower 560,Tech Services,455.01
+LID1560,Borrower 561,Real Estate,209.04
+LID1561,Borrower 562,Manufacturing,156.59
+LID1562,Borrower 563,Oil & Gas,401.24
+LID1563,Borrower 564,Oil & Gas,173.66
+LID1564,Borrower 565,Manufacturing,420.18
+LID1565,Borrower 566,Tech Services,240.68
+LID1566,Borrower 567,Manufacturing,350.4
+LID1567,Borrower 568,Manufacturing,92.99
+LID1568,Borrower 569,Retail,330.74
+LID1569,Borrower 570,Manufacturing,253.3
+LID1570,Borrower 571,Tech Services,313.97
+LID1571,Borrower 572,Real Estate,125.61
+LID1572,Borrower 573,Manufacturing,381.59
+LID1573,Borrower 574,Tech Services,438.26
+LID1574,Borrower 575,Retail,147.53
+LID1575,Borrower 576,Retail,93.07
+LID1576,Borrower 577,Oil & Gas,60.64
+LID1577,Borrower 578,Retail,338.89
+LID1578,Borrower 579,Manufacturing,323.19
+LID1579,Borrower 580,Manufacturing,296.01
+LID1580,Borrower 581,Manufacturing,154.38
+LID1581,Borrower 582,Retail,225.91
+LID1582,Borrower 583,Manufacturing,317.51
+LID1583,Borrower 584,Manufacturing,273.55
+LID1584,Borrower 585,Tech Services,494.5
+LID1585,Borrower 586,Manufacturing,111.4
+LID1586,Borrower 587,Oil & Gas,362.82
+LID1587,Borrower 588,Oil & Gas,231.94
+LID1588,Borrower 589,Oil & Gas,242.69
+LID1589,Borrower 590,Oil & Gas,372.92
+LID1590,Borrower 591,Oil & Gas,361.6
+LID1591,Borrower 592,Tech Services,496.07
+LID1592,Borrower 593,Oil & Gas,107.78
+LID1593,Borrower 594,Manufacturing,96.85
+LID1594,Borrower 595,Retail,375.95
+LID1595,Borrower 596,Manufacturing,310.27
+LID1596,Borrower 597,Real Estate,173.37
+LID1597,Borrower 598,Oil & Gas,85.74
+LID1598,Borrower 599,Oil & Gas,88.55
+LID1599,Borrower 600,Oil & Gas,452.39
+LID1600,Borrower 601,Oil & Gas,136.34
+LID1601,Borrower 602,Manufacturing,195.52
+LID1602,Borrower 603,Oil & Gas,152.0
+LID1603,Borrower 604,Oil & Gas,209.75
+LID1604,Borrower 605,Oil & Gas,81.24
+LID1605,Borrower 606,Manufacturing,283.58
+LID1606,Borrower 607,Manufacturing,80.43
+LID1607,Borrower 608,Manufacturing,410.16
+LID1608,Borrower 609,Tech Services,155.17
+LID1609,Borrower 610,Real Estate,293.01
+LID1610,Borrower 611,Oil & Gas,446.04
+LID1611,Borrower 612,Real Estate,342.89
+LID1612,Borrower 613,Tech Services,289.83
+LID1613,Borrower 614,Oil & Gas,195.95
+LID1614,Borrower 615,Retail,199.85
+LID1615,Borrower 616,Retail,351.27
+LID1616,Borrower 617,Oil & Gas,497.36
+LID1617,Borrower 618,Manufacturing,347.83
+LID1618,Borrower 619,Retail,301.0
+LID1619,Borrower 620,Real Estate,378.79
+LID1620,Borrower 621,Oil & Gas,259.34
+LID1621,Borrower 622,Manufacturing,77.06
+LID1622,Borrower 623,Manufacturing,303.03
+LID1623,Borrower 624,Manufacturing,480.93
+LID1624,Borrower 625,Tech Services,128.89
+LID1625,Borrower 626,Manufacturing,360.5
+LID1626,Borrower 627,Manufacturing,140.42
+LID1627,Borrower 628,Real Estate,291.12
+LID1628,Borrower 629,Oil & Gas,93.5
+LID1629,Borrower 630,Manufacturing,252.67
+LID1630,Borrower 631,Real Estate,390.27
+LID1631,Borrower 632,Retail,206.41
+LID1632,Borrower 633,Tech Services,349.21
+LID1633,Borrower 634,Tech Services,407.95
+LID1634,Borrower 635,Oil & Gas,467.23
+LID1635,Borrower 636,Manufacturing,155.59
+LID1636,Borrower 637,Tech Services,229.69
+LID1637,Borrower 638,Manufacturing,118.59
+LID1638,Borrower 639,Manufacturing,496.62
+LID1639,Borrower 640,Manufacturing,467.15
+LID1640,Borrower 641,Oil & Gas,292.98
+LID1641,Borrower 642,Manufacturing,428.91
+LID1642,Borrower 643,Manufacturing,284.43
+LID1643,Borrower 644,Manufacturing,330.61
+LID1644,Borrower 645,Oil & Gas,90.11
+LID1645,Borrower 646,Retail,389.87
+LID1646,Borrower 647,Tech Services,107.47
+LID1647,Borrower 648,Real Estate,421.73
+LID1648,Borrower 649,Real Estate,401.91
+LID1649,Borrower 650,Manufacturing,368.94
+LID1650,Borrower 651,Oil & Gas,66.27
+LID1651,Borrower 652,Tech Services,186.41
+LID1652,Borrower 653,Tech Services,168.4
+LID1653,Borrower 654,Real Estate,212.06
+LID1654,Borrower 655,Manufacturing,89.44
+LID1655,Borrower 656,Oil & Gas,471.63
+LID1656,Borrower 657,Manufacturing,299.21
+LID1657,Borrower 658,Manufacturing,187.49
+LID1658,Borrower 659,Tech Services,228.64
+LID1659,Borrower 660,Tech Services,251.24
+LID1660,Borrower 661,Manufacturing,320.27
+LID1661,Borrower 662,Retail,282.06
+LID1662,Borrower 663,Tech Services,463.73
+LID1663,Borrower 664,Manufacturing,273.63
+LID1664,Borrower 665,Oil & Gas,496.47
+LID1665,Borrower 666,Oil & Gas,433.14
+LID1666,Borrower 667,Manufacturing,143.83
+LID1667,Borrower 668,Oil & Gas,468.77
+LID1668,Borrower 669,Oil & Gas,102.36
+LID1669,Borrower 670,Manufacturing,417.85
+LID1670,Borrower 671,Oil & Gas,221.28
+LID1671,Borrower 672,Retail,445.09
+LID1672,Borrower 673,Oil & Gas,440.63
+LID1673,Borrower 674,Tech Services,412.67
+LID1674,Borrower 675,Manufacturing,405.51
+LID1675,Borrower 676,Retail,187.11
+LID1676,Borrower 677,Oil & Gas,86.41
+LID1677,Borrower 678,Manufacturing,231.34
+LID1678,Borrower 679,Retail,128.09
+LID1679,Borrower 680,Retail,362.73
+LID1680,Borrower 681,Retail,205.74
+LID1681,Borrower 682,Manufacturing,489.02
+LID1682,Borrower 683,Oil & Gas,338.44
+LID1683,Borrower 684,Real Estate,420.12
+LID1684,Borrower 685,Retail,109.64
+LID1685,Borrower 686,Tech Services,437.91
+LID1686,Borrower 687,Tech Services,465.24
+LID1687,Borrower 688,Manufacturing,269.18
+LID1688,Borrower 689,Real Estate,322.81
+LID1689,Borrower 690,Oil & Gas,394.16
+LID1690,Borrower 691,Manufacturing,128.68
+LID1691,Borrower 692,Manufacturing,276.15
+LID1692,Borrower 693,Tech Services,229.4
+LID1693,Borrower 694,Manufacturing,115.87
+LID1694,Borrower 695,Oil & Gas,215.39
+LID1695,Borrower 696,Tech Services,80.68
+LID1696,Borrower 697,Manufacturing,61.62
+LID1697,Borrower 698,Tech Services,110.82
+LID1698,Borrower 699,Oil & Gas,483.4
+LID1699,Borrower 700,Manufacturing,297.29
+LID1700,Borrower 701,Tech Services,484.62
+LID1701,Borrower 702,Oil & Gas,244.62
+LID1702,Borrower 703,Manufacturing,190.32
+LID1703,Borrower 704,Oil & Gas,277.76
+LID1704,Borrower 705,Oil & Gas,247.78
+LID1705,Borrower 706,Retail,97.55
+LID1706,Borrower 707,Manufacturing,338.37
+LID1707,Borrower 708,Retail,147.22
+LID1708,Borrower 709,Manufacturing,328.81
+LID1709,Borrower 710,Real Estate,342.59
+LID1710,Borrower 711,Real Estate,118.41
+LID1711,Borrower 712,Tech Services,77.61
+LID1712,Borrower 713,Manufacturing,401.34
+LID1713,Borrower 714,Manufacturing,256.91
+LID1714,Borrower 715,Manufacturing,76.17
+LID1715,Borrower 716,Retail,497.69
+LID1716,Borrower 717,Retail,76.0
+LID1717,Borrower 718,Retail,362.77
+LID1718,Borrower 719,Oil & Gas,492.66
+LID1719,Borrower 720,Real Estate,157.63
+LID1720,Borrower 721,Retail,114.01
+LID1721,Borrower 722,Oil & Gas,104.62
+LID1722,Borrower 723,Oil & Gas,186.47
+LID1723,Borrower 724,Real Estate,95.47
+LID1724,Borrower 725,Tech Services,361.47
+LID1725,Borrower 726,Retail,78.03
+LID1726,Borrower 727,Oil & Gas,279.24
+LID1727,Borrower 728,Real Estate,498.51
+LID1728,Borrower 729,Manufacturing,416.29
+LID1729,Borrower 730,Oil & Gas,326.85
+LID1730,Borrower 731,Oil & Gas,187.81
+LID1731,Borrower 732,Retail,330.75
+LID1732,Borrower 733,Real Estate,287.17
+LID1733,Borrower 734,Tech Services,241.74
+LID1734,Borrower 735,Manufacturing,108.82
+LID1735,Borrower 736,Retail,448.97
+LID1736,Borrower 737,Manufacturing,252.4
+LID1737,Borrower 738,Retail,137.58
+LID1738,Borrower 739,Manufacturing,215.49
+LID1739,Borrower 740,Manufacturing,236.36
+LID1740,Borrower 741,Manufacturing,422.39
+LID1741,Borrower 742,Manufacturing,380.13
+LID1742,Borrower 743,Real Estate,396.19
+LID1743,Borrower 744,Tech Services,54.96
+LID1744,Borrower 745,Manufacturing,237.27
+LID1745,Borrower 746,Retail,266.6
+LID1746,Borrower 747,Manufacturing,58.64
+LID1747,Borrower 748,Tech Services,166.92
+LID1748,Borrower 749,Retail,392.13
+LID1749,Borrower 750,Tech Services,111.7
+LID1750,Borrower 751,Oil & Gas,290.89
+LID1751,Borrower 752,Retail,146.84
+LID1752,Borrower 753,Tech Services,55.45
+LID1753,Borrower 754,Manufacturing,158.54
+LID1754,Borrower 755,Oil & Gas,489.14
+LID1755,Borrower 756,Real Estate,410.69
+LID1756,Borrower 757,Tech Services,481.81
+LID1757,Borrower 758,Tech Services,269.53
+LID1758,Borrower 759,Retail,99.38
+LID1759,Borrower 760,Real Estate,296.58
+LID1760,Borrower 761,Oil & Gas,254.47
+LID1761,Borrower 762,Manufacturing,429.96
+LID1762,Borrower 763,Manufacturing,94.14
+LID1763,Borrower 764,Real Estate,269.71
+LID1764,Borrower 765,Oil & Gas,117.52
+LID1765,Borrower 766,Tech Services,196.1
+LID1766,Borrower 767,Real Estate,381.81
+LID1767,Borrower 768,Retail,264.21
+LID1768,Borrower 769,Manufacturing,219.15
+LID1769,Borrower 770,Retail,227.51
+LID1770,Borrower 771,Oil & Gas,256.75
+LID1771,Borrower 772,Retail,403.26
+LID1772,Borrower 773,Oil & Gas,451.44
+LID1773,Borrower 774,Manufacturing,479.9
+LID1774,Borrower 775,Real Estate,404.11
+LID1775,Borrower 776,Oil & Gas,191.93
+LID1776,Borrower 777,Manufacturing,359.66
+LID1777,Borrower 778,Real Estate,246.92
+LID1778,Borrower 779,Real Estate,164.6
+LID1779,Borrower 780,Tech Services,428.39
+LID1780,Borrower 781,Real Estate,67.29
+LID1781,Borrower 782,Tech Services,455.79
+LID1782,Borrower 783,Manufacturing,257.66
+LID1783,Borrower 784,Manufacturing,336.74
+LID1784,Borrower 785,Oil & Gas,346.71
+LID1785,Borrower 786,Retail,452.8
+LID1786,Borrower 787,Tech Services,336.5
+LID1787,Borrower 788,Manufacturing,326.27
+LID1788,Borrower 789,Manufacturing,79.99
+LID1789,Borrower 790,Retail,283.28
+LID1790,Borrower 791,Oil & Gas,117.58
+LID1791,Borrower 792,Tech Services,381.85
+LID1792,Borrower 793,Tech Services,280.5
+LID1793,Borrower 794,Tech Services,356.1
+LID1794,Borrower 795,Oil & Gas,68.75
+LID1795,Borrower 796,Retail,88.16
+LID1796,Borrower 797,Retail,372.35
+LID1797,Borrower 798,Tech Services,82.44
+LID1798,Borrower 799,Real Estate,82.07
+LID1799,Borrower 800,Retail,55.45
+LID1800,Borrower 801,Real Estate,480.43
+LID1801,Borrower 802,Oil & Gas,381.88
+LID1802,Borrower 803,Tech Services,208.96
+LID1803,Borrower 804,Tech Services,183.44
+LID1804,Borrower 805,Manufacturing,207.37
+LID1805,Borrower 806,Real Estate,398.59
+LID1806,Borrower 807,Retail,347.62
+LID1807,Borrower 808,Retail,133.34
+LID1808,Borrower 809,Manufacturing,128.35
+LID1809,Borrower 810,Oil & Gas,94.28
+LID1810,Borrower 811,Retail,347.14
+LID1811,Borrower 812,Retail,393.97
+LID1812,Borrower 813,Oil & Gas,169.27
+LID1813,Borrower 814,Retail,59.43
+LID1814,Borrower 815,Retail,86.98
+LID1815,Borrower 816,Tech Services,485.54
+LID1816,Borrower 817,Tech Services,182.95
+LID1817,Borrower 818,Manufacturing,396.15
+LID1818,Borrower 819,Oil & Gas,331.1
+LID1819,Borrower 820,Manufacturing,221.87
+LID1820,Borrower 821,Retail,142.56
+LID1821,Borrower 822,Oil & Gas,104.62
+LID1822,Borrower 823,Manufacturing,326.76
+LID1823,Borrower 824,Manufacturing,398.59
+LID1824,Borrower 825,Tech Services,339.76
+LID1825,Borrower 826,Retail,288.64
+LID1826,Borrower 827,Manufacturing,68.88
+LID1827,Borrower 828,Manufacturing,485.82
+LID1828,Borrower 829,Real Estate,409.42
+LID1829,Borrower 830,Manufacturing,181.77
+LID1830,Borrower 831,Manufacturing,490.99
+LID1831,Borrower 832,Manufacturing,320.85
+LID1832,Borrower 833,Oil & Gas,312.09
+LID1833,Borrower 834,Oil & Gas,386.63
+LID1834,Borrower 835,Manufacturing,415.3
+LID1835,Borrower 836,Manufacturing,345.42
+LID1836,Borrower 837,Retail,107.64
+LID1837,Borrower 838,Manufacturing,202.22
+LID1838,Borrower 839,Tech Services,467.64
+LID1839,Borrower 840,Tech Services,151.08
+LID1840,Borrower 841,Oil & Gas,217.48
+LID1841,Borrower 842,Real Estate,244.43
+LID1842,Borrower 843,Oil & Gas,247.73
+LID1843,Borrower 844,Retail,325.82
+LID1844,Borrower 845,Oil & Gas,474.38
+LID1845,Borrower 846,Manufacturing,158.31
+LID1846,Borrower 847,Oil & Gas,104.68
+LID1847,Borrower 848,Retail,138.86
+LID1848,Borrower 849,Tech Services,449.12
+LID1849,Borrower 850,Tech Services,340.61
+LID1850,Borrower 851,Oil & Gas,178.66
+LID1851,Borrower 852,Real Estate,417.18
+LID1852,Borrower 853,Manufacturing,437.62
+LID1853,Borrower 854,Retail,430.93
+LID1854,Borrower 855,Manufacturing,463.52
+LID1855,Borrower 856,Oil & Gas,163.51
+LID1856,Borrower 857,Oil & Gas,389.77
+LID1857,Borrower 858,Manufacturing,257.24
+LID1858,Borrower 859,Tech Services,428.9
+LID1859,Borrower 860,Oil & Gas,377.82
+LID1860,Borrower 861,Real Estate,399.4
+LID1861,Borrower 862,Manufacturing,345.27
+LID1862,Borrower 863,Tech Services,129.84
+LID1863,Borrower 864,Manufacturing,295.26
+LID1864,Borrower 865,Manufacturing,493.1
+LID1865,Borrower 866,Tech Services,471.82
+LID1866,Borrower 867,Oil & Gas,69.43
+LID1867,Borrower 868,Oil & Gas,124.17
+LID1868,Borrower 869,Retail,109.28
+LID1869,Borrower 870,Retail,376.69
+LID1870,Borrower 871,Manufacturing,418.0
+LID1871,Borrower 872,Manufacturing,146.08
+LID1872,Borrower 873,Tech Services,277.63
+LID1873,Borrower 874,Manufacturing,428.32
+LID1874,Borrower 875,Oil & Gas,379.76
+LID1875,Borrower 876,Oil & Gas,294.01
+LID1876,Borrower 877,Real Estate,315.66
+LID1877,Borrower 878,Real Estate,278.76
+LID1878,Borrower 879,Oil & Gas,183.9
+LID1879,Borrower 880,Manufacturing,304.26
+LID1880,Borrower 881,Manufacturing,360.0
+LID1881,Borrower 882,Real Estate,443.0
+LID1882,Borrower 883,Oil & Gas,336.33
+LID1883,Borrower 884,Oil & Gas,392.5
+LID1884,Borrower 885,Real Estate,122.03
+LID1885,Borrower 886,Oil & Gas,257.7
+LID1886,Borrower 887,Real Estate,54.2
+LID1887,Borrower 888,Manufacturing,161.01
+LID1888,Borrower 889,Oil & Gas,376.91
+LID1889,Borrower 890,Manufacturing,496.31
+LID1890,Borrower 891,Real Estate,94.63
+LID1891,Borrower 892,Retail,230.67
+LID1892,Borrower 893,Retail,410.03
+LID1893,Borrower 894,Manufacturing,141.82
+LID1894,Borrower 895,Real Estate,299.79
+LID1895,Borrower 896,Manufacturing,379.88
+LID1896,Borrower 897,Manufacturing,327.19
+LID1897,Borrower 898,Retail,134.61
+LID1898,Borrower 899,Oil & Gas,209.92
+LID1899,Borrower 900,Oil & Gas,402.71
+LID1900,Borrower 901,Manufacturing,299.4
+LID1901,Borrower 902,Oil & Gas,52.35
+LID1902,Borrower 903,Oil & Gas,392.45
+LID1903,Borrower 904,Tech Services,65.89
+LID1904,Borrower 905,Manufacturing,385.58
+LID1905,Borrower 906,Retail,141.12
+LID1906,Borrower 907,Retail,481.13
+LID1907,Borrower 908,Manufacturing,215.57
+LID1908,Borrower 909,Manufacturing,197.12
+LID1909,Borrower 910,Manufacturing,117.0
+LID1910,Borrower 911,Tech Services,187.52
+LID1911,Borrower 912,Manufacturing,444.49
+LID1912,Borrower 913,Tech Services,498.35
+LID1913,Borrower 914,Manufacturing,215.74
+LID1914,Borrower 915,Tech Services,251.87
+LID1915,Borrower 916,Manufacturing,374.93
+LID1916,Borrower 917,Manufacturing,448.79
+LID1917,Borrower 918,Retail,316.87
+LID1918,Borrower 919,Real Estate,226.19
+LID1919,Borrower 920,Oil & Gas,235.68
+LID1920,Borrower 921,Retail,363.03
+LID1921,Borrower 922,Manufacturing,51.45
+LID1922,Borrower 923,Retail,328.82
+LID1923,Borrower 924,Real Estate,209.97
+LID1924,Borrower 925,Manufacturing,407.39
+LID1925,Borrower 926,Oil & Gas,91.85
+LID1926,Borrower 927,Manufacturing,314.69
+LID1927,Borrower 928,Tech Services,266.44
+LID1928,Borrower 929,Tech Services,339.05
+LID1929,Borrower 930,Manufacturing,79.18
+LID1930,Borrower 931,Oil & Gas,310.99
+LID1931,Borrower 932,Retail,302.67
+LID1932,Borrower 933,Retail,302.3
+LID1933,Borrower 934,Tech Services,321.57
+LID1934,Borrower 935,Oil & Gas,354.41
+LID1935,Borrower 936,Manufacturing,412.25
+LID1936,Borrower 937,Oil & Gas,171.42
+LID1937,Borrower 938,Retail,421.27
+LID1938,Borrower 939,Oil & Gas,274.22
+LID1939,Borrower 940,Tech Services,84.68
+LID1940,Borrower 941,Manufacturing,76.35
+LID1941,Borrower 942,Tech Services,200.41
+LID1942,Borrower 943,Real Estate,403.2
+LID1943,Borrower 944,Retail,368.46
+LID1944,Borrower 945,Manufacturing,404.88
+LID1945,Borrower 946,Oil & Gas,282.77
+LID1946,Borrower 947,Oil & Gas,248.09
+LID1947,Borrower 948,Retail,116.35
+LID1948,Borrower 949,Retail,197.69
+LID1949,Borrower 950,Tech Services,245.31
+LID1950,Borrower 951,Tech Services,89.87
+LID1951,Borrower 952,Real Estate,149.28
+LID1952,Borrower 953,Oil & Gas,319.2
+LID1953,Borrower 954,Retail,381.05
+LID1954,Borrower 955,Manufacturing,499.26
+LID1955,Borrower 956,Manufacturing,469.9
+LID1956,Borrower 957,Tech Services,339.15
+LID1957,Borrower 958,Oil & Gas,239.56
+LID1958,Borrower 959,Oil & Gas,336.28
+LID1959,Borrower 960,Real Estate,403.54
+LID1960,Borrower 961,Oil & Gas,103.25
+LID1961,Borrower 962,Tech Services,234.46
+LID1962,Borrower 963,Manufacturing,427.91
+LID1963,Borrower 964,Manufacturing,222.72
+LID1964,Borrower 965,Manufacturing,307.34
+LID1965,Borrower 966,Manufacturing,314.5
+LID1966,Borrower 967,Real Estate,133.01
+LID1967,Borrower 968,Manufacturing,213.01
+LID1968,Borrower 969,Tech Services,200.53
+LID1969,Borrower 970,Manufacturing,61.79
+LID1970,Borrower 971,Real Estate,60.89
+LID1971,Borrower 972,Retail,424.26
+LID1972,Borrower 973,Real Estate,172.88
+LID1973,Borrower 974,Manufacturing,283.14
+LID1974,Borrower 975,Oil & Gas,184.43
+LID1975,Borrower 976,Manufacturing,473.31
+LID1976,Borrower 977,Tech Services,166.68
+LID1977,Borrower 978,Oil & Gas,243.35
+LID1978,Borrower 979,Manufacturing,442.73
+LID1979,Borrower 980,Tech Services,428.87
+LID1980,Borrower 981,Manufacturing,133.75
+LID1981,Borrower 982,Real Estate,411.19
+LID1982,Borrower 983,Oil & Gas,256.18
+LID1983,Borrower 984,Oil & Gas,267.34
+LID1984,Borrower 985,Real Estate,110.07
+LID1985,Borrower 986,Manufacturing,86.27
+LID1986,Borrower 987,Real Estate,377.57
+LID1987,Borrower 988,Manufacturing,273.41
+LID1988,Borrower 989,Manufacturing,246.58
+LID1989,Borrower 990,Retail,378.28
+LID1990,Borrower 991,Real Estate,394.48
+LID1991,Borrower 992,Real Estate,121.51
+LID1992,Borrower 993,Manufacturing,324.6
+LID1993,Borrower 994,Tech Services,110.91
+LID1994,Borrower 995,Manufacturing,388.12
+LID1995,Borrower 996,Oil & Gas,345.63
+LID1996,Borrower 997,Retail,480.48
+LID1997,Borrower 998,Oil & Gas,81.03
+LID1998,Borrower 999,Retail,75.67
+LID1999,Borrower 1000,Manufacturing,176.98
